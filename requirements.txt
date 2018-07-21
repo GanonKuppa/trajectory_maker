@@ -1,0 +1,7 @@
+matplotlib.pyplot
+matplotlib.ticker
+numpy
+numba
+math 
+itertools
+ipywidgets
