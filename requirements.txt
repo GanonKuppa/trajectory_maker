@@ -1,5 +1,5 @@
-matplotlib.pyplot
-matplotlib.ticker
+matplotlib
+matplotlib
 numpy
 numba
 math 
