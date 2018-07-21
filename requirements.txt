@@ -1,6 +1,4 @@
 matplotlib
-matplotlib
 numpy
 numba
-itertools
 ipywidgets
