@@ -4,7 +4,9 @@
 ## 動かし方
 
 ### binder
-binderというjupyter notebookのホスティングサービスを利用
+binderというjupyter notebookのホスティングサービスを利用  
+
+
 以下のアドレスに飛び、
     
     https://mybinder.org/
@@ -13,7 +15,12 @@ GitHub repository name or URLに以下を入力しlaunchを起動
     
     GanonKuppa/trajectory_maker
 
-ブラウザ上でjupyter notebookが立ち上がるのでtrajectory_maker.ipynbを起動
+ブラウザ上でjupyter notebookが立ち上がるのでtrajectory_maker.ipynbを起動  
+
+ココから起動した方が楽かも  
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GanonKuppa/trajectory_maker/master)
+
 
 
 ### google colab
