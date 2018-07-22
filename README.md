@@ -37,3 +37,15 @@ https://colab.research.google.com/github/GanonKuppa/trajectory_maker/blob/master
 
 ## ツールの概要と動作原理
 ツールの概要と動作原理についてはREADME.ipynbを参照してください。
+
+
+## マイクロマウス用のプログラム
+もともと、trajectory_makerはマイクロマウス競技用の軌跡を作成することを目的としています。
+マイクロマウス用の軌跡を作成したいときはこのノートブックを使用して下さい。
+    
+    trajectory_CL_mouse.ipynb
+
+
+ココから上記のnotebookを起動するのが手っ取り早いです。
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GanonKuppa/trajectory_maker/master)
+
