@@ -1,6 +1,8 @@
 # trajectory_maker
 平面移動ロボット用の軌跡を弧長パラメータ付けした曲率で生成します。
 
+![スクリーンショット](./image/traj_img.png)
+
 ## 動かし方
 
 ### binder
@@ -48,4 +50,7 @@ https://colab.research.google.com/github/GanonKuppa/trajectory_maker/blob/master
 
 ココから上記のnotebookを起動するのが手っ取り早いです。
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GanonKuppa/trajectory_maker/master)
+
+![スクリーンショット](./image/CL_img.png)
+
 
