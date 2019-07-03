@@ -25,6 +25,7 @@ GitHub repository name or URLに以下を入力しlaunchを起動
 
 
 
+
 ### google colab
 以下のアドレスを実行
 https://colab.research.google.com/github/GanonKuppa/trajectory_maker/blob/master/trajectory_maker_for_colab.ipynb
@@ -51,6 +52,7 @@ https://colab.research.google.com/github/GanonKuppa/trajectory_maker/blob/master
 ココから上記のnotebookを起動するのが手っ取り早いです。
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GanonKuppa/trajectory_maker/master)
 
-![スクリーンショット](./image/CL_img.png)
+<img width="465" alt="CL_img" src="https://user-images.githubusercontent.com/24890940/60568647-5bb27780-9da8-11e9-9079-78902240b418.png">
+
 
 
